@@ -34,7 +34,7 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 USER_NAME = "winy88"         # 用户名
 UUID = "4e48824f-2ea0-4b7a-a8bd-4fcdf07dafcf"                     # UUID，留空则自动生成
 PORT = 45578                   # Vmess端口，留空或0则自动生成
-DOMAIN = "free.testlrj.ddns-ip.net"                   # 域名，留空则自动获取
+DOMAIN = "us.16868.dpdns.org"                   # 域名，留空则自动获取
 CF_TOKEN = "eyJhIjoiNDBjNDExNWI2NGExYWMwYWYyNjVkMDQ5YmIxNzM2OGYiLCJ0IjoiZDhmMGQ3MTctNWQxYS00ODkwLTkxZGQtMTZiZTEzYjRmYjFkIiwicyI6Ik16UTBNVFV4TXpZdFptTmxOQzAwTkRVNUxXRmtNMll0TlRFMk9UTTBZbU01WXpkaSJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
